@@ -1,4 +1,7 @@
 # data-scraping-test
+[Dokumentasi Program TikTok Scraper.docx](https://github.com/user-attachments/files/22172491/Dokumentasi.Program.TikTok.Scraper.docx)
+
+
 
 <img width="597" height="182" alt="image" src="https://github.com/user-attachments/assets/cd637125-0ecc-4d60-8ddc-fe2ade3b4949" />
 
